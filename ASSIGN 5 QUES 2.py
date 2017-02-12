@@ -1,4 +1,4 @@
-#Alisson Leiva Assignment 5 Question 2 Attempt
+#Alisson Leiva Assignment 5 Question 2 ATTEMPT
 count=0
 i=0
 winP1=0
